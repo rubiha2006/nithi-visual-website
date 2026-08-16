@@ -1,0 +1,6 @@
+{
+  "name": "NITHI VISUAL",
+  "description": "Interactive pastel creative portfolio and visual production studio for NITHI VISUAL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
